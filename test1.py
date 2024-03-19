@@ -2,5 +2,4 @@
 def addNum(x,y):
 	return x+y
 
-sum = addNum(2,3)
-print(sum)
+print(addNum(3,2))
